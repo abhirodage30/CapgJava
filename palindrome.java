@@ -1,6 +1,6 @@
 public class palindrome {
     public static void main(String[] args) {
-        String str = "abb";
+        String str = "bob";
         int n = str.length();
         int i=0;
         int j = n-1;
